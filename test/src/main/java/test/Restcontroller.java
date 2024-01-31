@@ -11,7 +11,7 @@ public class Restcontroller {
 		
 		System.out.println( " line added in controller calss by rjvsingh");
 		
-		System.out.println("2nd line added by rajeevgithublom ");
+		System.out.println("2nd line added by rjvsingh ");
 	}
 
 }
