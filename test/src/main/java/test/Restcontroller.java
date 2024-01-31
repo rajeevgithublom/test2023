@@ -7,6 +7,8 @@ public class Restcontroller {
 		
 		System.out.println("added a rest controller class");
 		
+		System.out.println( " line added in controller calss by rjvsingh");
+		
 
 	}
 
