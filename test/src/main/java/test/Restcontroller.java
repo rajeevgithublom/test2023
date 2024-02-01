@@ -6,7 +6,7 @@ public class Restcontroller {
 		// TODO Auto-generated method stub
 	int b;	
 	int a;
-	int c;
+	int d;
 	System.out.println("removed everything from owner");
 	}
 
