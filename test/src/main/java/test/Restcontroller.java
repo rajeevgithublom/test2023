@@ -8,8 +8,6 @@ public class Restcontroller {
 	int a;	
     int b;
     int c;
-
-
 	int d;
 	String name;
 
