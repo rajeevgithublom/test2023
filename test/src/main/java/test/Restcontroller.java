@@ -7,6 +7,7 @@ public class Restcontroller {
 	int b;	
 	int a;
 	int d;
+	String name;
 	System.out.println("removed everything from owner");
 	}
 
