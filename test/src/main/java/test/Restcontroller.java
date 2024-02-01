@@ -5,17 +5,7 @@ public class Restcontroller {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("added a rest controller class");
-		
-		System.out.println("line added by rajeevgithublom ");
-		
-		System.out.println( " line added in controller calss by rjvsingh");
-		
-		System.out.println("2nd line added by rjvsingh ");
-		
-		System.out.println("2nd line added by rajeevgithublom ");
-		
-		System.out.println("3nd line added by rajeevgithublom ");
+	System.out.println("removed everything from owner");
 	}
 
 }
