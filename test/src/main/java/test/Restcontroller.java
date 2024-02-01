@@ -10,7 +10,7 @@ public class Restcontroller {
 		int c;
 		int d;
 		String name;
-        int rajeev ;
+        String rajeev ;
 		int names;
 
 		System.out.println("removed everything from owner");
