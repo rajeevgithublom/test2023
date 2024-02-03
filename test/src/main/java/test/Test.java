@@ -1,8 +1,9 @@
 package test;
 
 public class Test {
-//comment changed something in test class	
-	
+
+//comment changed something in test class	merged
+
 	public int i =0;
 
 	public int getI() {
