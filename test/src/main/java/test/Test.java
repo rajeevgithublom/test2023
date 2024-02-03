@@ -1,7 +1,7 @@
 package test;
 
 public class Test {
-	
+//comment changed something in test class	
 	
 	public int i =0;
 
